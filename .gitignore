@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+input/Data_and_Features/*.csv
+output/*jpg
+output/*png
+
 # C extensions
 *.so
 
